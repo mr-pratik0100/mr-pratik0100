@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I love learning **New Technologies**<br>🌱 I’m currently learning *Core Java,SpringBoot,HyberNet,MERN Stack**<br>💬 Ask me about **Java & Express.Js**<br>📫 How to reach me https://www.linkedin.com/in/pratik-shiradkar-051157191/
+🔭 I love learning **New Technologies**<br>🌱 I’m currently Working on *Core Java,SpringBoot,HyberNet,MERN Stack**<br>💬 Ask me about **Java, Springboot, RestApis, Express.Js & Database**<br>📫 How to reach me https://www.linkedin.com/in/pratik-shiradkar-051157191/
 
 
 ## 🌐 Socials:
